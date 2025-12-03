@@ -47,16 +47,47 @@ Pada bagian Topic Modeling, proyek ini menampilkan hasil pengelompokan berita me
 - Distribusi Proporsi Topik
   Menunjukkan persentase berita yang termasuk dalam masing-masing topik utama (misalnya: Politik, Ekonomi, dan Sosial). Grafik ini memberikan gambaran topik apa yang paling dominan
   dalam pemberitaan.
+  
+  <img width="954" height="288" alt="Image" src="https://github.com/user-attachments/assets/45892733-a038-4836-a0d6-ae9110963fb7" />
+
+  
 - Ringkasan Kata Kunci Utama
   Menyajikan daftar kata kunci paling representatif pada setiap topik. Ringkasan ini membantu memahami karakteristik konten dari masing-masing kategori berita.
+
+    <p align="center">
+  <img width="713" height="187" alt="Image" src="https://github.com/user-attachments/assets/86133ea4-e12d-4f6e-b60a-c1a468358843" />
+</p>
+
+  
 - Top Terms per Topik (LDA + Lexicon)
   Menggambarkan kata-kata teratas yang memiliki kontribusi terbesar dalam pembentukan topik tertentu. Fitur ini dapat disesuaikan jumlah kata yang ditampilkan.
+  
+ <p align="center">
+  <img width="707" height="212" alt="Image" src="https://github.com/user-attachments/assets/331e6a28-ef9c-43dc-87fc-e56c76206a2e" />
+</p>
+
+  
 - WordCloud per Topik
   Visualisasi awan kata untuk setiap topik, sehingga kata paling menonjol mudah dilihat secara intuitif.
+
+<p align="center">
+  <img width="281" height="177" alt="Image" src="https://github.com/user-attachments/assets/5bba84d5-ace1-439a-862a-773bf83ba727" />
+</p>
+
+  
 - Tren Kekuatan Topik dari Waktu ke Waktu
   Menampilkan bagaimana proporsi topik tertentu berubah sepanjang periode analisis. Grafik ini membantu memahami dinamika isu yang naik atau turun trennya.
+  
+  <p align="center">
+  <img width="704" height="270" alt="Image" src="https://github.com/user-attachments/assets/d207cf72-3a3e-42cc-84d4-d53ecec7efa1" />
+</p>
+
+
+  
 - Contoh Judul Berita per Topik
   Berisi daftar contoh judul berita yang termasuk dalam topik yang dipilih, lengkap dengan sumber dan tautan asli. Ditampilkan dalam tabel yang interaktif.
+  
+  <img width="1425" height="331" alt="Image" src="https://github.com/user-attachments/assets/f467ca1d-7e02-4577-9cfc-5ce6b5902120" />
 
 ------
 
