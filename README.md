@@ -62,6 +62,8 @@ Pada bagian Topic Modeling, proyek ini menampilkan hasil pengelompokan berita me
 
 # 👥 Team 
 
+<img width="1444" height="323" alt="Image" src="https://github.com/user-attachments/assets/7dd220d6-1e50-47a4-aaf2-c2bcae46cb41" />
+
 
 
 
