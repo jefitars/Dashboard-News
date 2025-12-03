@@ -1,6 +1,6 @@
 # Eksplorasi dan Visualisasi Data - Project Dashboard
 # Indonesia News
-<img width="1070" height="2000" alt="Image" src="https://github.com/user-attachments/assets/dfb3fa50-6318-4baf-9c8a-38853387f830" />
+<img width="1438" height="824" alt="Image" src="https://github.com/user-attachments/assets/0dfdc833-4bf2-4446-b625-f61b74b83de0" />
 
 # 📰 Analisis Topik Pemberitaan Media Online Indonesia 2024–2025
 
